@@ -1,6 +1,6 @@
 
 
-# Glory Theophilus & Nelson Osagie 
+# harrison omorogbe & nyejirime young wike 
 
 ### Description
 
@@ -42,4 +42,4 @@ Our shell has support for the following built-in commands:
 | help [built-in]     | Read documentation for a built-in.                                                        |
 
 
-Code written by [Nelson Osagie](https://github.com/Nelgit007) and [Glory Theophilus](https://github.com/nnonye).
+Code written by [harrison omorogbe](https://github.com/harryomos) and [nyejirime young wike ](https://github.com/nenkkyoung).
