@@ -1,6 +1,6 @@
 
 
-# harrison omorogbe & nyejirime young wike 
+# Harrison Omorogbe & Nyejirime Young Wike 
 
 ### Description
 
@@ -42,4 +42,4 @@ Our shell has support for the following built-in commands:
 | help [built-in]     | Read documentation for a built-in.                                                        |
 
 
-Code written by [harrison omorogbe](https://github.com/harryomos) and [nyejirime young wike ](https://github.com/nenkkyoung).
+Code written by [Harrison Omorogbe](https://github.com/harryomos) and [Nyejirime Young Wike ](https://github.com/nenkkyoung).
